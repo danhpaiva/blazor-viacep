@@ -1,7 +1,7 @@
 <h1 align="center"> 🖳 App Blazor Wasm ViaCep 🖳</h1>
 
 <p align="center">
-    <img src="https://github.com/danhpaiva/blazor-viacep/blob/main/screen/image.png?raw=true" width="200" alt="Blazor Wasm">
+    <img src="https://github.com/danhpaiva/blazor-viacep/blob/main/screen/image.png?raw=true" width="600" alt="Blazor Wasm">
 </p>
 
 <p align="center">
