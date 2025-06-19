@@ -1,7 +1,7 @@
 <h1 align="center"> 🖳 App Blazor Wasm ViaCep 🖳</h1>
 
 <p align="center">
-    <img src="https://github.com/danhpaiva/buscador-porcentagem-nota-una/blob/main/BuscadorPorcentagemNotaUna/ico/program.png?raw=true" width="100" alt="Blazor Wasm">
+    <img src="https://raw.githubusercontent.com/danhpaiva/blazor-viacep/refs/heads/main/screen/image.png" width="200" alt="Blazor Wasm">
 </p>
 
 <p align="center">
