@@ -18,12 +18,12 @@
 </h2>
 
 <h2 id=objective>📜 Sobre</h2>
-Ferramenta para estudos no framework Blazor
+Aplicacao que consome a API do ViaCep
 
 <h2 id=installation>✔️ Desenvolvimento</h2>
 
-Você precisa de ter o Visual Studio ou VsCode instalado para testar o projeto.</br>
-Consequentemente precisará do SDK .Net 8.
+Você precisa ter o Visual Studio 2022 ou VsCode instalado para testar o projeto.</br>
+O projeto roda sob o SDK .Net 8.
 
 <h2 id=technology>🧰 Tecnologias</h2>
 
